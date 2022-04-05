@@ -1,0 +1,26 @@
+html * {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    background: #fff;
+    font-size: 14px;
+    font-size: 0.875rem;
+    line-height: 1.4;
+    color: #555;
+}
+
+.center-block {
+    display: grid;
+    place-items: center;
+
+}
+
+.w-3 {
+    width: 50px;
+}
+.mt-10{
+    margin-top: 10rem!important;
+
+}
